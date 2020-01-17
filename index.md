@@ -6,5 +6,5 @@ layout: default
 
 
 # Vera Shalaeva
-Postdoctoral research fellow [Apriori project](https://project.inria.fr/apriori/)
+Postdoctoral research fellow at INRIA Lille - Nord Europe, [Apriori project](https://project.inria.fr/apriori/).
 </div>
